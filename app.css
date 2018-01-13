@@ -1,0 +1,224 @@
+.mydiv{
+    border-radius: 3px;
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    width: 800px;
+    height:600px;
+   background-color: darkcyan;    
+}
+.list{
+    
+    font-style: italic;
+    font-size: 15px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    border-radius: 3px;
+    width: 150px;
+    height: 600px;
+    
+}
+.allpic{
+    border-radius: 400px;
+    background-color: aliceblue;
+    width: 60px;
+    height: 60px;
+}
+.c1{
+    position: absolute;
+    top :30px;
+    left:40px;
+    width: 130;
+    height: 170;
+    
+}
+.c2{
+    position: absolute;
+    top :30px;
+    left:200px;
+    width: 130;
+    height: 170;
+    
+}
+.c3{
+    position: absolute;
+    top :30px;
+    left:360px;
+    width: 130;
+    height: 170;
+}
+.c4{
+    position: absolute;
+    top :30px;
+    left:520px;
+    width: 130;
+    height: 170;
+}
+.c5{
+    position: absolute;
+    top :220px;
+    left:40px;
+    width: 130;
+    height: 170;
+}
+.c6{
+    position: absolute;
+    top :220px;
+    left:200px;
+    width: 130;
+    height: 170;
+    
+}
+.c7{
+    position: absolute;
+    top :220px;
+    left:360px;
+    width: 130;
+    height: 170;
+    
+}
+.c8{
+    position: absolute;
+    top :220px;
+    left:520px;
+    width: 130;
+    height: 170;
+    
+}
+.c9{
+    position: absolute;
+    top :410px;
+    left:40px;
+    width: 130;
+    height: 170;
+}
+.c10{
+    position: absolute;
+    top :410px;
+    left:200px;
+    width: 130px;
+    height: 170px;
+    
+}
+.c11{
+    position: absolute;
+    top :410px;
+    left:360px;
+    width: 130;
+    height: 170;
+    
+}
+.c12{
+    position: absolute;
+    top :410px;
+    left:520px;
+    width: 130;
+    height: 170;
+}
+.pic{
+ 
+    background-color: gray;
+    position: absolute;
+    left: 120px;
+    height: 600px;
+    width: 680px;
+}
+.wewin{
+    
+    display: none;
+    border-style: groove;
+    font-size: 15px;
+    border-color: darkcyan;
+    text-align: center;
+    font-style: italic;
+    color: aliceblue;
+    padding-top: 50px;
+    border-radius: 15px;
+    position: absolute;
+    top: 170px;
+    left: 170px;
+    background: darkcyan;
+    width:300px;
+    height: 150px;
+}
+/*d1{
+    text-align: center;
+    border-radius: 5px;
+    background-color: crimson;
+    position: absolute;
+    top: 200px;
+   left: 400px;
+    width: 300px;
+    height: 50px;    
+}
+.d2{
+    border-top-style: solid;
+    border-top-color: blue;
+    display: none;
+    opacity: ;
+    text-align: center;
+    border-radius: 5px;
+    background-color: crimson;
+    position: absolute;
+    top: 251px;
+    left: 400px;
+    width: 300px;
+    height: 300px;    
+}
+*/
+/*b{
+   
+    border-radius: 10px;
+    background-color: fuchsia;
+    width: 150px;
+    height: 40px;    
+}
+.p1{
+    text-align: center;
+    background-color: white;
+    color: blueviolet;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 5px;
+    left: 40px; 
+}
+.b1{
+    background: white ;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 150px;
+    height: 50px;
+    padding-top: 10px;
+}
+*/
+/*
+.mydiv1{
+    
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    
+    
+}
+.b{
+     border-radius: 10px;
+    background-color: fuchsia;
+     width: 150px;
+    height: 50px;
+    padding:10px;    
+}
+.b1{
+    border-radius: 10px;
+    background-color: fuchsia;
+     width: 150px;
+    height: 50px;
+    padding:10px;
+    
+}
+*/
